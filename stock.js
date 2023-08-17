@@ -18,6 +18,3 @@ let listaProductos = [
     new Producto(5, "Kamen Rider Kuuga", 3200, "OVNIPress",'./assets/images/kamenRiderKuuga.jpeg', 1),
     new Producto(6, "Soul Eater", 4500, "OVNIPress", './assets/images/soulEater.jpg', 1)
 ]
-
-const arrayJSON = JSON.stringify(listaProductos)
-localStorage.setItem("listaProductos", arrayJSON)

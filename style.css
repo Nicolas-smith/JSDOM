@@ -63,16 +63,17 @@ main h1 {
     padding: 10px;
 }
 .catalogo-index div h4{
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
-.catalogo-index div a{
+.catalogo-index div button{
     text-decoration: none;
     font-family: 'Poppins', sans-serif;
     color: white;
     background-color: #8f1a26;
-    padding: 15px;
+    padding: 10px
+
 }
-.catalogo-index div a:hover{
+.catalogo-index div button:hover{
     background-color: #e1aa47;
     transition-duration: 2s;
 }
@@ -102,12 +103,12 @@ footer h3 {
     justify-content: center;
 }
 
-footer section{
+footer div{
     display: flex;
     justify-content: center;
 }
 
-footer section a img {
+footer div a img {
     margin-right: 22px;
     margin-top: 25px;
     width: 50px;
