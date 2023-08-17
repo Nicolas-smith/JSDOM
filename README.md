@@ -1,1 +1,1 @@
-Este es un proyecto de prueba para la 3er entrega del curso de JS de CODERHOUSE.
+Esta es la entrega final del proyecto del curso de JS de CODERHOUSE.
